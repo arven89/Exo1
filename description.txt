@@ -1,0 +1,17 @@
+Hints:
+
+Appli qui permet de voir les performances des meilleurs joeurs de football au monde.
+
+
+- Nom
+- Prenom
+- Equipe actuel
+- Nombre de Ballon D'or
+- Age
+- Equipes
+- Fortune
+- Enfants
+- Statut marital
+- Pays
+- Ligue des chamions
+- Palmarès
